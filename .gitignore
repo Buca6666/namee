@@ -9,7 +9,7 @@ bin-release/
 
 # Executables
 *.swf
-*.air
+*.air https://www.planespotters.net/photo/897512/g-ckag-bmi-regional-embraer-erj-145ep?sid=ff133b8936ffeea4405796c8bde86011&sc=2
 *.ipa
 *.apk
 
